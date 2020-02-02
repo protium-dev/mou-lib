@@ -1,0 +1,10 @@
+{
+  "name": "mou-lib",
+  "version": "0.0.1",
+  "description": "let's see",
+  "main": "index.js",
+  "repository": "https://github.com/protium-dev/mou-lib",
+  "author": "Brian Mayo <ioprotium@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
